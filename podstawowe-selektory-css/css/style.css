@@ -9,3 +9,10 @@ p {
 a, span, div {
     background-color: lime;
 }
+
+li > a {
+    background-color: gold;
+}
+
+ul a { background-color: blue;
+}
