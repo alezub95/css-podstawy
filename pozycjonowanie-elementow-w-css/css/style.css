@@ -8,10 +8,25 @@ body {
     height: 100px;
     margin-bottom: 10px;
 
+    position: relative;
+    top: 10px;
+    left: 10px;
 }
+
 #drugi {
     background-color: red;
     width: 600px;
     height: 100px;
+    
+    position: absolute;
+    
+}
+
+#trzeci {
+    background-color: lime;
+    width: 100px;
+    height: 100px;
+    
+    position: absolute;
     
 }
