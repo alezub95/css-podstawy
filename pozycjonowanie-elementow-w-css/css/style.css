@@ -13,6 +13,14 @@ body {
     left: 10px;
 }
 
+#pierwszy-prim {
+    background-color: yellow;
+    
+}
+
+#pierwszy-absolutny {
+    background-color: violet;
+}
 #drugi {
     background-color: red;
     width: 600px;
