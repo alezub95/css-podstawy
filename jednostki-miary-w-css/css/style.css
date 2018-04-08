@@ -22,3 +22,28 @@ body {
 #em {
     width: 15em;
 }
+
+#ex {
+    width: 40ex;
+    
+}
+#rem {
+    width: 10rem;
+    
+}
+#procent {
+    width: 40%;
+}
+#vw {
+    width: 40vw;
+}
+#vh {
+    width: 40vh;
+}
+#vmin {
+    width: 40vmin;
+    
+}
+#vmax {
+    width: 40vmax;
+}
