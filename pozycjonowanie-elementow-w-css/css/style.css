@@ -18,7 +18,7 @@ body {
     width: 600px;
     height: 100px;
     
-    position: absolute;
+    top: 50px;
     
 }
 
@@ -27,6 +27,7 @@ body {
     width: 100px;
     height: 100px;
     
-    position: absolute;
+    position: fixed;
+    
     
 }
