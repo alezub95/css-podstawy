@@ -20,6 +20,10 @@ body {
 
 #pierwszy-absolutny {
     background-color: violet;
+    position: absolute;
+    bottom : 5px;
+    left: 5px;
+    
 }
 #drugi {
     background-color: red;
