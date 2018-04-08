@@ -15,3 +15,10 @@ body {
     margin-bottom: 10px;
     
 }
+#pixel {
+    width: 400px;
+    
+}
+#em {
+    width: 15em;
+}
